@@ -1,3 +1,3 @@
 select * 
 from customer
-where country = "Brazil"
+where country = 'Brazil'
