@@ -1,3 +1,3 @@
-select CustomerId, Country, FirstName,  LastName 
+select * 
 from customer
-where country != "USA"
+where country = "Brazil"
